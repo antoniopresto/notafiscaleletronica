@@ -1,0 +1,29 @@
+{
+  "name": "notafiscaleletronica",
+  "version": "0.0.0",
+  "description": "Modulo opensource para geracao de notas fiscais eletrônicas e comunicacao com webservices da Sefaz",
+  "main": "app.js",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brasil-js/notafiscaleletronica.git"
+  },
+  "keywords": [
+    "nfe",
+    "nota",
+    "fiscal",
+    "eletronica",
+    "sefaz"
+  ],
+  "author": "Renato Gama <renato@gammasoft.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brasil-js/notafiscaleletronica/issues"
+  },
+  "homepage": "https://github.com/brasil-js/notafiscaleletronica",
+  "dependencies": {
+    "brasil": "0.0.33"
+  }
+}
